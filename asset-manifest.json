@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/spanish_conjugator_gh_pages/static/css/main.953f933c.css",
+    "main.js": "/spanish_conjugator_gh_pages/static/js/main.6b47a61c.js",
+    "static/js/657.51ad13f0.chunk.js": "/spanish_conjugator_gh_pages/static/js/657.51ad13f0.chunk.js",
+    "static/js/787.79a0bfa4.chunk.js": "/spanish_conjugator_gh_pages/static/js/787.79a0bfa4.chunk.js",
+    "static/media/verbDatabase.sql": "/spanish_conjugator_gh_pages/static/media/verbDatabase.2de06a2306fe804b4c3c.sql",
+    "static/media/sqlite3.wasm": "/spanish_conjugator_gh_pages/static/media/sqlite3.ea4fcb9aa64ccf15e4c2.wasm",
+    "service-worker.js": "/spanish_conjugator_gh_pages/service-worker.js",
+    "index.html": "/spanish_conjugator_gh_pages/index.html",
+    "main.953f933c.css.map": "/spanish_conjugator_gh_pages/static/css/main.953f933c.css.map",
+    "main.6b47a61c.js.map": "/spanish_conjugator_gh_pages/static/js/main.6b47a61c.js.map",
+    "657.51ad13f0.chunk.js.map": "/spanish_conjugator_gh_pages/static/js/657.51ad13f0.chunk.js.map",
+    "787.79a0bfa4.chunk.js.map": "/spanish_conjugator_gh_pages/static/js/787.79a0bfa4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.953f933c.css",
+    "static/js/main.6b47a61c.js"
+  ]
+}
